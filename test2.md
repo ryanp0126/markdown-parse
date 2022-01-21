@@ -1,1 +1,1 @@
-[link](hi(hi).html)
+[link](something.html)
