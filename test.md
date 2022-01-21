@@ -1,1 +1,1 @@
-[[test](fail)](some)
+[link[](fail)](some)
