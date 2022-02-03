@@ -1,1 +1,1 @@
-[link[](fail)](some)
+[link[](fail)](this.html)

@@ -1,1 +1,3 @@
-[link](something.html)
+array[]
+test (hello)
+[this](link1.html)
